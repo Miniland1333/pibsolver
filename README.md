@@ -1,4 +1,4 @@
-# pibsolver
+# pibsolver [![Binder](https://binder.libretexts.org/badge_logo.svg)](https://binder.libretexts.org/v2/gh/Miniland1333/pibsolver/master)
 Python scripts for solving Schrodinger equation for a particle in an arbitrary 1D potential using particle in a box basis functions and Simpson integration.
 
 Each version of the script comes in two varieties: the normal one is intended to be used in a command-line or IDE environment like Spyder where the user can modify the script and run it.
